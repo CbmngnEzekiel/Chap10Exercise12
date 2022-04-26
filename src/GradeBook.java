@@ -4,7 +4,7 @@ public class GradeBook {
     private int[][] grades;
 
     public GradeBook(){
-        this.grades = new int[1][5];
+        this.grades = new int[12][5];
     }
 
     public void getGrades(){
